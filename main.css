@@ -1,0 +1,51 @@
+@charset "utf-8";
+h1 {
+    padding: 10px;
+    margin: 20px;
+}
+
+body {
+    background: #2b3856;
+}
+
+div {
+    background: #6495ed;
+    margin: 20px;
+}
+
+
+#languages {
+    list-style: none;
+    margin-left: 0px;
+}
+
+body {
+    background: #2b3856;
+}
+
+#main {
+    text-align: center;
+    margin-top: 300px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 3px dotted;
+}
+
+a:link {
+    border-bottom-color: white;
+}
+
+a:visited {
+    border-bottom-color: red;
+}
+
+a:hover {
+    border-bottom-color: green;
+}
+
+a:active {
+    border-bottom-color: yellow;
+}
